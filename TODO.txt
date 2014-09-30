@@ -1,0 +1,6 @@
+ - Browse Songs
+ - Current Song Time
+ - Remove Connection from bottom
+
+
+- Artwork 
